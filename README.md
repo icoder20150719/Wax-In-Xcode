@@ -5,3 +5,6 @@
 4. Run Add-Lua.sh from the terminal with sudo (I.E. 'sudo Add-Lua.sh')
 5. Enter your admin password and hit enter
 6. Open Xcode and select a Lua file, then click the 'Lua' entry under "Editor->Syntax Coloring"
+
+
+![wax Syntax Coloring](https://raw.githubusercontent.com/intheway/Wax-In-Xcode/master/waxinxcode.gif)
