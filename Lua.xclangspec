@@ -218,6 +218,39 @@
                 "debug.setmetatable",
                 "debug.setupvalue",
                 "debug.traceback",
+
+                //for wax
+                "wax",
+                "wax.isArm64",
+                "wax.struct.create",
+                "wax.isDebug",
+                "wax.appVersion",
+
+                //class
+                "waxClass",
+                "protocols",
+                "self",
+                "self.super",
+                "UNDERxLINE",
+
+                //block
+                "toblock",
+                "luaCallBlockWithParamsTypeArray",
+                "luaCallBlock",
+
+                //config
+                "luaSetWaxConfig",
+                "isDebug",
+
+
+                //convert
+                "toobjc",
+                "tolua",
+
+                //directory
+                "NSDocumentDirectory",
+                "NSLibraryDirectory",
+                "NSCacheDirectory",
             );
             Type = "xcode.syntax.keyword";
             AltType = "xcode.syntax.identifier";    // non-keywords are identifiers
